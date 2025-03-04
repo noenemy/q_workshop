@@ -21,4 +21,4 @@ Amazon Q Business는 정보를 찾고, 인사이트를 얻고, 직장에서 조�
 
 정리: 워크숍을 마친 후 정리 섹션의 지침에 따라 이 워크숍을 위해 프로비저닝된 인프라를 삭제하여 추가 비용이 발생하지 않도록 하세요. 특히 이 워크숍을 자신의 AWS 계정에서 운영하는 경우 이 작업이 중요합니다.
 
-![q-Logo]([https://raw.githubusercontent.com/son-kjun/bedrock-workshop/main/03_Image_Generation/images/bedrock.jpg](https://assets.aboutamazon.com/95/bc/b88478784cc19cf09c627968cc06/aa-apr2024-amazonq-standard-hero-v5-2000x1125-1.jpg))
+![q-Logo](https://assets.aboutamazon.com/95/bc/b88478784cc19cf09c627968cc06/aa-apr2024-amazonq-standard-hero-v5-2000x1125-1.jpg)
